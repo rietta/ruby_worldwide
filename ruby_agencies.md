@@ -18,3 +18,4 @@ These are companies who you can hire to write code for you.
 - [Pivotal Labs](http://pivotal.com)
 - [ThoughtBot.com](http://thoughtbot.com)
 - [Unboxed](http://Unboxed.co.uk)
+- [Rietta Inc.](http://rietta.com)
