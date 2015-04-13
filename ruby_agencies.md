@@ -28,7 +28,7 @@ Name                                                | Location                  
 [Pivotal Labs](http://pivotal.com)                  |                                    |
 [Planet Argon](http://planetargon.com)              | Portland, Oregon, USA              | yes
 [Revealing Hour Creations](http://revealinghour.in) |                                    |
-[Rietta](http://rietta.com)                         |                                    |
+[Rietta](http://rietta.com)                         | Atlanta, GA, & Nashville, TN, USA  | yes
 [Serious Fox](http://www.seriousfox.co.uk)          | London, UK                         |
 [Substantial](http://substantial.com)               |                                    |
 [ThoughtBot.com](http://thoughtbot.com)             | Boston, Massachusetts, USA         |
